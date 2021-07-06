@@ -1,3 +1,4 @@
 Hello Git and GitHub.
-Line 2
-Line 3
+Line 2.
+Line 3.
+Line4.
